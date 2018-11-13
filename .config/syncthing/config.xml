@@ -1,0 +1,90 @@
+<configuration version="28">
+    <folder id="zmssb-zwefw" label="IntelliJ Projects" path="/home/echo/IdeaProjects" type="receiveonly" rescanIntervalS="1800" fsWatcherEnabled="true" fsWatcherDelayS="10" ignorePerms="false" autoNormalize="false">
+        <filesystemType>basic</filesystemType>
+        <device id="YUJ4PH4-DWZ55D2-HZPPWXT-NDH65WH-GODL5NV-DJ4ER2Q-TIQPMZV-ED46EAR" introducedBy=""></device>
+        <device id="6FYR3SZ-EA3P6MN-BMDCYSR-DPNHNWM-ZCZSMVV-UEUK5HX-CLL43XO-54MNSQ3" introducedBy=""></device>
+        <minDiskFree unit="">0</minDiskFree>
+        <versioning type="simple">
+            <param key="maxAge" val="0"></param>
+            <param key="versionsPath" val=""></param>
+            <param key="keep" val="10"></param>
+            <param key="cleanoutDays" val="0"></param>
+            <param key="command" val=""></param>
+        </versioning>
+        <copiers>0</copiers>
+        <pullerMaxPendingKiB>0</pullerMaxPendingKiB>
+        <hashers>0</hashers>
+        <order>random</order>
+        <ignoreDelete>false</ignoreDelete>
+        <scanProgressIntervalS>0</scanProgressIntervalS>
+        <pullerPauseS>0</pullerPauseS>
+        <maxConflicts>0</maxConflicts>
+        <disableSparseFiles>false</disableSparseFiles>
+        <disableTempIndexes>false</disableTempIndexes>
+        <paused>false</paused>
+        <weakHashThresholdPct>25</weakHashThresholdPct>
+        <markerName>.stfolder</markerName>
+        <useLargeBlocks>false</useLargeBlocks>
+    </folder>
+    <device id="YUJ4PH4-DWZ55D2-HZPPWXT-NDH65WH-GODL5NV-DJ4ER2Q-TIQPMZV-ED46EAR" name="ECHO_PC" compression="metadata" introducer="false" skipIntroductionRemovals="false" introducedBy="">
+        <address>dynamic</address>
+        <paused>false</paused>
+        <autoAcceptFolders>false</autoAcceptFolders>
+        <maxSendKbps>0</maxSendKbps>
+        <maxRecvKbps>0</maxRecvKbps>
+    </device>
+    <device id="6FYR3SZ-EA3P6MN-BMDCYSR-DPNHNWM-ZCZSMVV-UEUK5HX-CLL43XO-54MNSQ3" name="thinkpad" compression="metadata" introducer="false" skipIntroductionRemovals="false" introducedBy="">
+        <address>dynamic</address>
+        <paused>false</paused>
+        <autoAcceptFolders>false</autoAcceptFolders>
+        <maxSendKbps>0</maxSendKbps>
+        <maxRecvKbps>0</maxRecvKbps>
+    </device>
+    <gui enabled="true" tls="false" debugging="false">
+        <address>0.0.0.0:8080</address>
+        <user>echothinkpad</user>
+        <password>$2b$12$YXc3QpMppwxjvTN4eweUMOdZ7iVBKW2yI5vkY85ozFU03wPS4TTyK</password>
+        <apikey>nv5r1hiulubzq7m5b9euwgsj9hx422</apikey>
+        <theme>default</theme>
+    </gui>
+    <ldap></ldap>
+    <options>
+        <listenAddress>default</listenAddress>
+        <globalAnnounceServer>default</globalAnnounceServer>
+        <globalAnnounceEnabled>true</globalAnnounceEnabled>
+        <localAnnounceEnabled>true</localAnnounceEnabled>
+        <localAnnouncePort>21027</localAnnouncePort>
+        <localAnnounceMCAddr>[ff12::8384]:21027</localAnnounceMCAddr>
+        <maxSendKbps>0</maxSendKbps>
+        <maxRecvKbps>0</maxRecvKbps>
+        <reconnectionIntervalS>60</reconnectionIntervalS>
+        <relaysEnabled>true</relaysEnabled>
+        <relayReconnectIntervalM>10</relayReconnectIntervalM>
+        <startBrowser>true</startBrowser>
+        <natEnabled>true</natEnabled>
+        <natLeaseMinutes>60</natLeaseMinutes>
+        <natRenewalMinutes>30</natRenewalMinutes>
+        <natTimeoutSeconds>10</natTimeoutSeconds>
+        <urAccepted>-1</urAccepted>
+        <urSeen>0</urSeen>
+        <urUniqueID>tqtb9wWE</urUniqueID>
+        <urURL>https://data.syncthing.net/newdata</urURL>
+        <urPostInsecurely>false</urPostInsecurely>
+        <urInitialDelayS>1800</urInitialDelayS>
+        <restartOnWakeup>true</restartOnWakeup>
+        <autoUpgradeIntervalH>0</autoUpgradeIntervalH>
+        <upgradeToPreReleases>false</upgradeToPreReleases>
+        <keepTemporariesH>24</keepTemporariesH>
+        <cacheIgnoredFiles>false</cacheIgnoredFiles>
+        <progressUpdateIntervalS>5</progressUpdateIntervalS>
+        <limitBandwidthInLan>false</limitBandwidthInLan>
+        <minHomeDiskFree unit="%">1</minHomeDiskFree>
+        <releasesURL>https://upgrades.syncthing.net/meta.json</releasesURL>
+        <overwriteRemoteDeviceNamesOnConnect>false</overwriteRemoteDeviceNamesOnConnect>
+        <tempIndexMinBlocks>10</tempIndexMinBlocks>
+        <trafficClass>0</trafficClass>
+        <defaultFolderPath>~</defaultFolderPath>
+        <setLowPriority>true</setLowPriority>
+        <minHomeDiskFreePct>0</minHomeDiskFreePct>
+    </options>
+</configuration>
