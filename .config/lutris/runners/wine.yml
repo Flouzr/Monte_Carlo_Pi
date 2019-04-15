@@ -1,4 +1,0 @@
-system: {}
-wine:
-  dxvk: false
-  version: system
